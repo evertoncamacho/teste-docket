@@ -49,7 +49,7 @@ As funcionalidades do sistema, referentes às operações de CRUD, estão repres
 | GET        | /api/listaCertidoesRelacionadasComCartorios | Certidões e cartórios relacionados |
 | GET        |               /api/cartorios                |                  Lista de cartório |
 | DELETE     |         /api/cartorios/remove/{id}          |                 Deleta um cartório |
-|            |                                             |                                    |
+
 
 ![GIF Web](src/main/resources/gifs/api-rest.gif)
 
