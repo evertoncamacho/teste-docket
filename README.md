@@ -47,7 +47,7 @@ As funcionalidades do sistema, referentes às operações de CRUD, estão repres
 | POST       |            /api/cartorios/salvar            |                   Cria um cartório |
 | PUT        |         /api/cartorios/editar/{id}          |               Atualiza um cartório |
 | GET        | /api/listaCertidoesRelacionadasComCartorios | Certidões e cartórios relacionados |
-| GET        |               /api/cartorios                |                  Lista de cartório |
+| GET        |               /api/cartorios                |                 Lista de cartórios |
 | DELETE     |         /api/cartorios/remove/{id}          |                 Deleta um cartório |
 
 
